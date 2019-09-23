@@ -1,0 +1,1 @@
+ALTER TABLE EMPLY_%d ADD emply3_id int(11) NOT NULL default 0 COMMENT '员工号' AFTER `LAST_NAME`
