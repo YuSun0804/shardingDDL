@@ -1,1 +1,18 @@
 
+需要安装
+
+1.python (mac已经自带了)
+
+2.mysql  （brew install mysql） --> 配置环境/etc/profile(建议用sudo)
+
+export PATH=$PATH:/usr/local/Cellar/mysql/5.7.11/bin
+
+(where mysql 查找安装路径)
+
+一定要注意是否生效 （source /etc/profile）查看 echo $PATH
+
+3.mysql-python  或者 pymysql 
+
+(pip install mysql-python )
+
+(pip install pymysql)
