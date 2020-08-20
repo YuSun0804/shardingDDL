@@ -1,6 +1,7 @@
 
-需要安装
+# python script to define sharding tables by DDL
 
+requirement:
 1.python (mac已经自带了)
 
 2.mysql  （brew install mysql） --> 配置环境/etc/profile(建议用sudo)
